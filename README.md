@@ -1,2 +1,3 @@
 # space-golf-java
-The space golf game written in Java
+A golf game that uses bad space physics written in Java
+An HTML port also exists
